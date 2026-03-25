@@ -1,0 +1,10 @@
+# requirements.txt — corrigé pour Python 3.13 + Windows
+opencv-python>=4.9.0
+cryptography>=42.0.0
+PyJWT>=2.8.0
+pyOpenSSL>=24.0.0
+Flask>=3.0.0
+Werkzeug>=3.0.1
+pytest>=8.0.0
+requests>=2.31.0
+numpy>=2.0.0
